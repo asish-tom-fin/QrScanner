@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tet" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tet" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tet.iml" filepath="$PROJECT_DIR$/tet.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: com.beust:jcommander:1.48">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.48/jcommander-1.48.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.48/jcommander-1.48-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.48/jcommander-1.48-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.github.jai-imageio:jai-imageio-core:1.3.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.google.zxing:core:3.3.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.0/core-3.3.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.0/core-3.3.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.0/core-3.3.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.google.zxing:javase:3.3.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.3.0/javase-3.3.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.3.0/javase-3.3.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.3.0/javase-3.3.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
